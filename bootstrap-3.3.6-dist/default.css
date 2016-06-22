@@ -1,0 +1,32 @@
+.box {
+	border: 1px red dotted;
+}
+.container {
+	max-width: 1000px;
+}
+.profile {
+	margin-right: 40px;
+}
+.profile aside ul li {
+	float: left;
+	margin-right: 8px;
+}
+.profile aside ul {
+	list-style: none;
+	padding: 0px;
+}
+.profile aside ul:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+.row header h2 {
+	margin-bottom: 0px;
+}
+.row footer {
+	margin-bottom: 10px;
+	color: #000;
+}
+.lead {
+	margin bottom: 10px;
+}
